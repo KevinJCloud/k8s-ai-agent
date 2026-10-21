@@ -187,4 +187,7 @@ This project is intended for learning and experimentation. AI-generated troubles
 
 **Jobin J**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/KevinJCloud/k8s-ai-agent.git
+
+<img width="552" height="163" alt="image" src="https://github.com/user-attachments/assets/87d950f6-fdd3-4dbe-bbfe-c056561a1559" />
+
